@@ -4,4 +4,4 @@
 #### Бурмолда 4
 ##### Бурмолда 5
 ###### Бурмолда 6
-[Переходи на Musor2](https://github.com/yarkochenko1410/DROP/blob/main/musor2.md)
+[Переходи на Musor2](https://github.com/yarkochenko1410/DROP/blob/main/papka2/musor2.md)
