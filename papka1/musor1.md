@@ -2,4 +2,8 @@
 
 <img src="../image/i.png" title="ТВОЙ ДРОП ДО И ПОСЛЕ"> 
 
-<img src="../image/snowman-mewing.gif" title="MOGGET"> 
+<img src="../image/snowman-mewing.gif" title="MOGGET">
+
+``` python
+print("Hello, world!")
+```
